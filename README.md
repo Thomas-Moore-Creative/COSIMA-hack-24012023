@@ -1,2 +1,2 @@
 # COSIMA hackathon
-## January 24th 2023
+January 24th 2023
