@@ -1,1 +1,2 @@
-# COSIMA-hack-24012023
+# COSIMA hackathon
+## January 24th 2023
